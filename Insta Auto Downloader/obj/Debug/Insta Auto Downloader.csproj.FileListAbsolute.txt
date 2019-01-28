@@ -1,0 +1,9 @@
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\bin\Debug\Insta Auto Downloader.exe.config
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\bin\Debug\Insta Auto Downloader.exe
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\bin\Debug\Insta Auto Downloader.pdb
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\obj\Debug\Insta Auto Downloader.csprojResolveAssemblyReference.cache
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\obj\Debug\Insta_Auto_Downloader.Form1.resources
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\obj\Debug\Insta_Auto_Downloader.Properties.Resources.resources
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\obj\Debug\Insta Auto Downloader.csproj.GenerateResource.Cache
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\obj\Debug\Insta Auto Downloader.exe
+C:\Users\Kaka Yado\documents\visual studio 2017\Projects\Insta Auto Downloader\Insta Auto Downloader\obj\Debug\Insta Auto Downloader.pdb
